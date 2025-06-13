@@ -1,0 +1,1 @@
+import{aU as e}from"./bootstrap-eRMf25wG.js";import{ad as o,aj as t}from"../jse/index-index-QIcGCnph.js";const a={name:"QqMusicBf"};function r(c,n,s,f,p,_){return o(),t("div",null,"QQ音乐组件")}const d=e(a,[["render",r]]);export{d as default};

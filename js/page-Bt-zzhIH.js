@@ -1,0 +1,1 @@
+const o={login:"登录",register:"注册",codeLogin:"验证码登录",qrcodeLogin:"二维码登录",forgetPassword:"忘记密码"},t={home:"首页",title:"概览",analytics:"分析页",workspace:"工作台"},e={title:"工具",qqMusic:"QQ音乐",wyy:"网易云音乐"},s={"qq-music":"QQ音乐"},c={auth:o,dashboard:t,tool:e,free:s};export{o as auth,t as dashboard,c as default,s as free,e as tool};
